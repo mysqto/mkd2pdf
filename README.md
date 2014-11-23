@@ -1,8 +1,6 @@
-wkhtmltopdf and wkhtmltoimage
+mkd2pdf
 -----------------------------
 
-wkhtmltopdf and wkhtmltoimage are command line tools to render HTML into PDF
-and various image formats using the QT Webkit rendering engine. These run
-entirely "headless" and do not require a display or display service.
+md2pdf is a out-of-box command line tool to render markdown into PDF the wkhtmltopdf QT Webkit rendering engine. 
 
-See http://wkhtmltopdf.org for updated documentation.
+And this project mkd2pdf is the wkhtmltopdf wrap to build the static command line.
